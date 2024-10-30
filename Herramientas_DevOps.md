@@ -1,6 +1,6 @@
 # Herramientas populares en cada fase de DevOps 
 
-![](https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/devops%20herramientas.jpeg)
+![](https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/devops%20herramientas.jpeg) ![](https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/herramientaas%20devops.png)
 
 ## 1. Gestión del código fuente (SCM): 
 
