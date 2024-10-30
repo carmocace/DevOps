@@ -1,5 +1,7 @@
 # Herramientas populares en cada fase de DevOps 
 
+![]()
+
 ## 1. Gestión del código fuente (SCM): 
 
 - **Git:** Sistema de control de versiones distribuido. Permite a los equipos 
