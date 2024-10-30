@@ -2,7 +2,7 @@
 # Principios de la filosofía DevOps
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/devops%20fases.png" alt="Descripción de la imagen" width="300"/>
+  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/devops%20fases.png" alt="Descripción de la imagen" width="600"/>
 </p>
 
 
@@ -77,5 +77,5 @@ __Beneficios:__
 - Resolución de problemas más rápida debido a la comunicación fluida. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/DEVOPS.png" alt="Descripción de la imagen" width="300"/>
+  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/DEVOPS.png" alt="Descripción de la imagen" width="500"/>
 </p>
