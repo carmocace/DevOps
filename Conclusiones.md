@@ -1,7 +1,7 @@
 
 # Conclusión:
 
-
+https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/DEVOPS2.jpeg
  
 - **DevOps** es una metodología que combina prácticas culturales, automatización y 
 herramientas tecnológicas para mejorar la entrega de software y la colaboración entre 
