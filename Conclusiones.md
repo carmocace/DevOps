@@ -2,7 +2,7 @@
 # Conclusión:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/DEVOPS2.jpeg" alt="Descripción de la imagen" width="500"/>
+  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/herramientaas%20devops.png" alt="Descripción de la imagen" width="500"/>
 </p>
 
 
