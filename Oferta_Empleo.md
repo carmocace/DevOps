@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/devops%20fases.png" alt="Descripción de la imagen" width="600"/>
+</p>
+
+
+
 > **Administrador/a de sistemas Windows Devops - 100% teletrabajo**
 > 
  KEAPPS
@@ -107,6 +114,12 @@ Sueldo: 33.000€ - 40.000€ bruto anual.
 Denunciar oferta
 
 Los datos bancarios, de pago y datos personales (DNI, foto) nunca deben proporcionarse al solicitar un empleo. Consulta nuestros consejos para una búsqueda de empleo segura.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/devops%20fases.png" alt="Descripción de la imagen" width="600"/>
+</p>
+
 
 ## Opinión:
 Es una oferta atractiva debido a la flexibilidad laboral (teletrabajo completo) y la oportunidad de trabajar con tecnologías avanzadas como Terraform y Ansible. El salario es competitivo y el paquete de beneficios, como el seguro médico y la flexibilidad horaria, ofrece un equilibrio entre vida personal y profesional. Además, la posibilidad de crecimiento mediante formación IT es un buen incentivo.
