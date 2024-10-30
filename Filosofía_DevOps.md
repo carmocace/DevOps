@@ -1,4 +1,10 @@
+
 # Principios de la filosofía DevOps
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/devops%20fases.png" alt="Descripción de la imagen" width="300"/>
+</p>
+
 
 ## 1. Integración continua (CI): 
 La Integración continua (CI) es una práctica en la que los desarrolladores integran su 
@@ -69,3 +75,7 @@ __Beneficios:__
 - Mayor alineación entre los equipos de desarrollo y operaciones.
 - Responsabilidad compartida en todas las fases del ciclo de vida del software.
 - Resolución de problemas más rápida debido a la comunicación fluida. 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carmocace/DevOps/refs/heads/main/Imagenes/DEVOPS.png" alt="Descripción de la imagen" width="300"/>
+</p>
